@@ -34,23 +34,24 @@ Controllable text-to-audio generation aims to synthesize audio from textual desc
   <img src="images/f2.png" width="700">
 </p>
 
----
+
+
 
 ### Figure 2: Experiments on AudioCondition and DESED dataset.
 <p align="center">
   <img src="images/f3.png" width="700">
 </p>
 
----
+
 
 ### Figure 3: Experiments on AudioTime dataset.
 <p align="center">
   <img src="images/f4.png" width="700">
 </p>
 
----
 
-### Figure 3: Case study for Tangoflux, Audiocomposer, and DegDiT.
+
+### Figure 4: Case study for Tangoflux, Audiocomposer, and DegDiT.
 <p align="center">
   <img src="images/case.png" width="700">
 </p>
